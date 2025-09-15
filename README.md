@@ -1,1 +1,1 @@
-A simple symbol table for a c++ like language for use in a parser.
+This code was created as part of an assignment to demenstate proficiency in C++ and understanding of how programing languanges work on a fundemental level. This is a simple symbol table for a c++ like language for use in a parser. 
